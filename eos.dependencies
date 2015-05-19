@@ -1,20 +1,26 @@
 [
  {
    "remote": "github",
-   "repository": "CyanogenMod/lge-kernel-gproj",
-   "target_path": "kernel/lge/gproj",
-   "revision": "cm-12.0"
+   "repository": "Hybrid-Rom/lge_kernel_ls970",
+   "target_path": "kernel/lge/ls970",
+   "revision": "lollipop-mr1"
  },
  {
    "remote": "github",
    "repository": "TeamEOS/device_lge_ls970-common",
    "target_path": "device/lge/ls970-common",
-   "revision": "lp5.0"
+   "revision": "lp5.1"
  },
  {
    "remote": "github",
    "repository": "TeamEOS/device_lge_gproj-common",
    "target_path": "device/lge/gproj-common",
-   "revision": "lp5.0"
+   "revision": "lp5.1"
+ },
+ {
+   "remote": "github",
+   "repository": "TeamEOS/vendor_lge",
+   "target_path": "vendor/lge",
+   "revision": "lp5.1"
  }
 ]
