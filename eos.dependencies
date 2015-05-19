@@ -1,7 +1,7 @@
 [
  {
    "remote": "github",
-   "repository": "Hybrid-Rom/lge_kernel_ls970",
+   "repository": "Hybrid-Rom/kernel_lge_ls970",
    "target_path": "kernel/lge/ls970",
    "revision": "lollipop-mr1"
  },
