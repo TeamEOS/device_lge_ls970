@@ -15,7 +15,7 @@
 #
 
 BOARD_KERNEL_CMDLINE := vmalloc=600M console=null lpj=67677 user_debug=31 msm_rtb.filter=0x0 ehci-hcd.park=3 coresight-etm.boot_enable=0 androidboot.hardware=ls970
-TARGET_KERNEL_CONFIG := cyanogenmod_e975_defconfig
+TARGET_KERNEL_CONFIG := ls970_defconfig
 
 # Recovery
 TARGET_RECOVERY_FSTAB := device/lge/ls970/ramdisk/fstab.ls970
