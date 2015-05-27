@@ -6,21 +6,15 @@
    "revision": "lollipop-mr1"
  },
  {
-   "remote": "github",
-   "repository": "TeamEOS/device_lge_ls970-common",
-   "target_path": "device/lge/ls970-common",
-   "revision": "lp5.1"
+   "repository": "device_lge_ls970-common",
+   "target_path": "device/lge/ls970-common"
  },
  {
-   "remote": "github",
-   "repository": "TeamEOS/device_lge_gproj-common",
-   "target_path": "device/lge/gproj-common",
-   "revision": "lp5.1"
+   "repository": "device_lge_gproj-common",
+   "target_path": "device/lge/gproj-common"
  },
  {
-   "remote": "github",
-   "repository": "TeamEOS/vendor_lge",
-   "target_path": "vendor/lge",
-   "revision": "lp5.1"
+   "repository": "vendor_lge",
+   "target_path": "vendor/lge"
  }
 ]
